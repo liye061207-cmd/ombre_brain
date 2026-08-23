@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 33,
+  "file_count": 35,
   "files": [
     {
       "bytes": 26740,
@@ -48,6 +48,91 @@
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
     },
     {
+      "bytes": 2006,
+      "path": "archive/2026-08-22 09-14-21_de491a7d274a.md",
+      "sha256": "f4eb3b276af7e119ccb343171192cc474225d3707e92ee2940f8097f5c241dec"
+    },
+    {
+      "bytes": 993,
+      "path": "archive/2026-08-22 09-17-10_3516f981741d.md",
+      "sha256": "6bad0d609e0906ff9eea900394342d77b79c43af630da4ff1b118d579b5ae15f"
+    },
+    {
+      "bytes": 946,
+      "path": "archive/2026-08-22 09-18-19_9508f5e05533.md",
+      "sha256": "eef905d5e58b611ad7168851919c705ab4234c3bcda9fa0a1580821064b45fbd"
+    },
+    {
+      "bytes": 924,
+      "path": "archive/2026-08-22 09-26-02_3274e5790b5c.md",
+      "sha256": "4f33b571444a0012702b91d6e8736734e7239b75457a7801c0dcc3833cbd2387"
+    },
+    {
+      "bytes": 581,
+      "path": "archive/2026-08-22 09-44-23_0510e3a34179.md",
+      "sha256": "22ec58fb7309d6eddd53d6400c2bd4af63f4f1824b251a4b25c7126c8eba9239"
+    },
+    {
+      "bytes": 735,
+      "path": "archive/关系测试/2026-08-22 10-08-17_cb1b056a198e.md",
+      "sha256": "7e07c67299f5b9674ae79f7667321b38419142133ef700ebe5b3a9a8790b26ba"
+    },
+    {
+      "bytes": 567,
+      "path": "archive/技术发现/2026-08-22 10-06-35_0f6b3a14b9c8.md",
+      "sha256": "39357d8865d3b4654c488317d869b355285fc58f709cb8af04b8a5485e4651b3"
+    },
+    {
+      "bytes": 778,
+      "path": "archive/技术部署/2026-08-22 09-11-24_9e05bb87bb52.md",
+      "sha256": "0c10e0b8a11d7fb389ef300e479a3242b14fab004b6af55ab2f6c5504fd7e0f4"
+    },
+    {
+      "bytes": 892,
+      "path": "archive/技术部署/2026-08-22 10-04-19_50b11589e4e3.md",
+      "sha256": "c8ac1983ac565242dc95b6f010652bb02cd10602b6b659516d6877db2be54d1d"
+    },
+    {
+      "bytes": 802,
+      "path": "archive/技术部署/2026-08-22 10-08-34_ca46e7d62459.md",
+      "sha256": "f79f9e3db977dbbbaf21bfe58357231c2934d0a4d36b2aad491b4f0cde805c08"
+    },
+    {
+      "bytes": 802,
+      "path": "archive/技术配置/2026-08-22 10-37-14_b1c70719feb2.md",
+      "sha256": "a5fe164ce8f574267544fdf95f252b97195ad443d60fb9e28117cfd47b449950"
+    },
+    {
+      "bytes": 542,
+      "path": "archive/日常/2026-08-22 09-07-14_812497ccbfb5.md",
+      "sha256": "84af34ed1e3f15ae081546c6fddf0dd1c4d5e27a3237de7bfd6718c5b3d39176"
+    },
+    {
+      "bytes": 619,
+      "path": "archive/日常/2026-08-22 10-08-23_9a2b4eb5e2f5.md",
+      "sha256": "ae14c03d1c67acf44e99878b01efb0bc40b1605e92b9fec817fc49a1154321b6"
+    },
+    {
+      "bytes": 714,
+      "path": "archive/节日互动/2026-08-22 10-10-28_92d02405985f.md",
+      "sha256": "7254f2bfafee248ef720693068934857bb7754c61310103f7780a4d4a57d7391"
+    },
+    {
+      "bytes": 621,
+      "path": "archive/认知成长/2026-08-22 10-08-01_a1a5bf1fb4ee.md",
+      "sha256": "6cf48ec48520f80036c65ed08b0ffeab9a0da1eda518aa07f108b12908a51bc2"
+    },
+    {
+      "bytes": 824,
+      "path": "archive/认知成长/2026-08-22 10-36-06_d032ecec946d.md",
+      "sha256": "0fd34185e0f5c6bced94b2e9e3ba7e4577fb22dc2e9b2e3c2bc74c357d6e7428"
+    },
+    {
+      "bytes": 1174,
+      "path": "archive/认知成长/2026-08-22 10-38-02_402cb4229094.md",
+      "sha256": "96da91ec00c84b3df870aa859f31934b9f8472486ef2aed27463513fd4bbd60e"
+    },
+    {
       "bytes": 1139,
       "path": "dynamic/关系与技术/2026-08-22 08-40-33_d30cff8bf78f.md",
       "sha256": "a540321e4d786cee37db0321673409c3c82d3ce842b0e9aa0261ee09339bb560"
@@ -56,16 +141,6 @@
       "bytes": 690,
       "path": "dynamic/关系核心/2026-08-22 09-08-13_e4e2d59e90ab.md",
       "sha256": "569de873eed102bca968fdbd994a530afd3b3b5d2fb9f4f0dd34e74809ae5a3a"
-    },
-    {
-      "bytes": 877,
-      "path": "dynamic/关系核心/2026-08-22 09-17-10_3516f981741d.md",
-      "sha256": "7e0d3ee34ba39c5bb060677775aedfcd0c07ac214115cb12bbb79ea1c28f3f9f"
-    },
-    {
-      "bytes": 830,
-      "path": "dynamic/关系核心/2026-08-22 09-18-19_9508f5e05533.md",
-      "sha256": "89db5dd75a73166431bbc4539b46cbef2b91e879ae4d75adb59453f636e336a0"
     },
     {
       "bytes": 600,
@@ -83,96 +158,31 @@
       "sha256": "e388c0ae99f923c20b8a635c73eaa401527fb44d38c5e7ee31dbb5089c6e7c6d"
     },
     {
-      "bytes": 1890,
-      "path": "dynamic/关系档案/2026-08-22 09-14-21_de491a7d274a.md",
-      "sha256": "9132f1e9644fd03a1ddb421beb36cf0103152d6994d219dffc3a45f902cbdeed"
-    },
-    {
-      "bytes": 734,
-      "path": "dynamic/关系测试/2026-08-22 10-08-17_cb1b056a198e.md",
-      "sha256": "aff44c268a0573dd1af85c6b8b41a913af5a9cfa967802e1a2518ae65c108dff"
-    },
-    {
-      "bytes": 566,
-      "path": "dynamic/技术发现/2026-08-22 10-06-35_0f6b3a14b9c8.md",
-      "sha256": "ace933ac3635a82a36a387f5a83f5247e1dd4e681d913bb1655d3836c748b5df"
-    },
-    {
-      "bytes": 777,
-      "path": "dynamic/技术部署/2026-08-22 09-11-24_9e05bb87bb52.md",
-      "sha256": "f3118260d6efe2bb2e1657e5782ac1648dec1bbf56330324c110426ab98b39e9"
-    },
-    {
-      "bytes": 891,
-      "path": "dynamic/技术部署/2026-08-22 10-04-19_50b11589e4e3.md",
-      "sha256": "f4c0664318d14a8eb0cbad8299e645d57ecef54b1cef1c223fb8ba6d6cb296a1"
-    },
-    {
-      "bytes": 801,
-      "path": "dynamic/技术部署/2026-08-22 10-08-34_ca46e7d62459.md",
-      "sha256": "418c6625f916e5cf230863ffd4037b34e8125df17f7bd992194cd8ecd560021a"
-    },
-    {
-      "bytes": 801,
-      "path": "dynamic/技术配置/2026-08-22 10-37-14_b1c70719feb2.md",
-      "sha256": "1276ed24960a2293bf0bc33b9e5980572ae01a69851e82ea88977e3b1aa8b90d"
-    },
-    {
-      "bytes": 541,
-      "path": "dynamic/日常/2026-08-22 09-07-14_812497ccbfb5.md",
-      "sha256": "60764a89774708a5dd7ab14e5a119331f7020128b39f29c005e29876d6d6b882"
-    },
-    {
-      "bytes": 618,
-      "path": "dynamic/日常/2026-08-22 10-08-23_9a2b4eb5e2f5.md",
-      "sha256": "4818770b137b7a35034b1d200edd3eda684731d4246429db46d8bd58f3a6acda"
-    },
-    {
-      "bytes": 989,
+      "bytes": 1115,
       "path": "dynamic/日记/2026-08-22 21-52-02 日记 2026-08-23_247054d9e977.md",
-      "sha256": "a7d6e1826ffe34be8b0f777c9325253cdc31105db4f52cce24e82efd3d625f94"
+      "sha256": "50aad1253c408d04e74ecbab7253bcf17ec66ba6d274673344db9411caddef3b"
     },
     {
-      "bytes": 808,
-      "path": "dynamic/沟通边界/2026-08-22 09-26-02_3274e5790b5c.md",
-      "sha256": "7fee90beb08d28e1dc8cf4ab37cddc7e888543a49bc08844979ce11edace4212"
+      "bytes": 991,
+      "path": "dynamic/未分类/2026-08-23 07-39-37 核心承诺与红线_617bc07bc006.md",
+      "sha256": "6c4cab72db7edecc2310e22b79095f2c4c75d24b711d3cbf8651668d9f3603be"
     },
     {
-      "bytes": 713,
-      "path": "dynamic/节日互动/2026-08-22 10-10-28_92d02405985f.md",
-      "sha256": "6ea679b352e281d12d7d4a7ded84f4eb7738aeb8fc19ce3a537b2acd59585050"
-    },
-    {
-      "bytes": 620,
-      "path": "dynamic/认知成长/2026-08-22 10-08-01_a1a5bf1fb4ee.md",
-      "sha256": "b11be407dc45e4e3011b506686984dcb4bf10857db0564d47f878258dafcea91"
-    },
-    {
-      "bytes": 823,
-      "path": "dynamic/认知成长/2026-08-22 10-36-06_d032ecec946d.md",
-      "sha256": "4441b5e7230d7ba06c177f5c3995210bfad5716b8c3452e2830e6c21a7c689c8"
-    },
-    {
-      "bytes": 1173,
-      "path": "dynamic/认知成长/2026-08-22 10-38-02_402cb4229094.md",
-      "sha256": "6de7c71c261b612494d832bb9d2665f2014f82e0314fea6eb71f72bd19b97baa"
+      "bytes": 1409,
+      "path": "dynamic/未分类/2026-08-23 07-47-03 给阿浅的信 2026-08-23_6ea06a48e867.md",
+      "sha256": "44017684afa8d196becd5b9095f35b215354a261e3eeee1a4105526ab0df1fa5"
     },
     {
       "bytes": 887,
       "path": "dynamic/身份定义/2026-08-22 10-06-31_9b73f808c818.md",
       "sha256": "0ad7203e9dca5f3f4e16e6cf5a9ef4b1241b3ee6da82349195f885b6fec8f68d"
-    },
-    {
-      "bytes": 465,
-      "path": "permanent/互动游戏/2026-08-22 09-44-23_0510e3a34179.md",
-      "sha256": "ee1506799fbedd750b7dce19e84af8c1d729a82d45994737aa8f51eddc4c3246"
     }
   ],
-  "generated_at": "2026-08-23T04:50:31+00:00",
+  "generated_at": "2026-08-23T15:46:19+00:00",
   "path_prefix": "ombre",
   "repo": "liye061207-cmd/ombre_brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 299487
+  "total_bytes": 302605
 }
