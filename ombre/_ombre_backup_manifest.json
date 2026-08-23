@@ -1,0 +1,178 @@
+{
+  "branch": "main",
+  "file_count": 33,
+  "files": [
+    {
+      "bytes": 26740,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "c809fb607a8824c5952bfa815a95337bd9f6389ab23a94125b7813134068f07a"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 158162,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "f06d0064156aab791b1755aa8ac3775a67f3a7e4efba41f50970d5d1ad62bdd0"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 17784,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "8631a30d363e6c6870ba1cb51976af941c92c0dd32f408f1159262fb7189d480"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55440,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "afa0790caab78598fa4d3ff37e9cc32768c528143f8b3f648d91133a48ee9977"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 1139,
+      "path": "dynamic/关系与技术/2026-08-22 08-40-33_d30cff8bf78f.md",
+      "sha256": "a540321e4d786cee37db0321673409c3c82d3ce842b0e9aa0261ee09339bb560"
+    },
+    {
+      "bytes": 690,
+      "path": "dynamic/关系核心/2026-08-22 09-08-13_e4e2d59e90ab.md",
+      "sha256": "569de873eed102bca968fdbd994a530afd3b3b5d2fb9f4f0dd34e74809ae5a3a"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/关系核心/2026-08-22 09-17-10_3516f981741d.md",
+      "sha256": "7e0d3ee34ba39c5bb060677775aedfcd0c07ac214115cb12bbb79ea1c28f3f9f"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/关系核心/2026-08-22 09-18-19_9508f5e05533.md",
+      "sha256": "89db5dd75a73166431bbc4539b46cbef2b91e879ae4d75adb59453f636e336a0"
+    },
+    {
+      "bytes": 600,
+      "path": "dynamic/关系核心/2026-08-22 09-21-37_ac75ba6fee44.md",
+      "sha256": "452566f5d377a947a4cba9f179e2613ba9ac544a235d7169c7f575d0bad6105f"
+    },
+    {
+      "bytes": 658,
+      "path": "dynamic/关系核心/2026-08-22 10-06-20_de4c3d9b497a.md",
+      "sha256": "9bf89eb7d2054cbe8dc19b700aa7e2e373703ad858f197d4ebc8796a0c2a8afc"
+    },
+    {
+      "bytes": 834,
+      "path": "dynamic/关系核心/2026-08-22 10-09-47_fd50f11af626.md",
+      "sha256": "e388c0ae99f923c20b8a635c73eaa401527fb44d38c5e7ee31dbb5089c6e7c6d"
+    },
+    {
+      "bytes": 1890,
+      "path": "dynamic/关系档案/2026-08-22 09-14-21_de491a7d274a.md",
+      "sha256": "9132f1e9644fd03a1ddb421beb36cf0103152d6994d219dffc3a45f902cbdeed"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/关系测试/2026-08-22 10-08-17_cb1b056a198e.md",
+      "sha256": "aff44c268a0573dd1af85c6b8b41a913af5a9cfa967802e1a2518ae65c108dff"
+    },
+    {
+      "bytes": 566,
+      "path": "dynamic/技术发现/2026-08-22 10-06-35_0f6b3a14b9c8.md",
+      "sha256": "ace933ac3635a82a36a387f5a83f5247e1dd4e681d913bb1655d3836c748b5df"
+    },
+    {
+      "bytes": 777,
+      "path": "dynamic/技术部署/2026-08-22 09-11-24_9e05bb87bb52.md",
+      "sha256": "f3118260d6efe2bb2e1657e5782ac1648dec1bbf56330324c110426ab98b39e9"
+    },
+    {
+      "bytes": 891,
+      "path": "dynamic/技术部署/2026-08-22 10-04-19_50b11589e4e3.md",
+      "sha256": "f4c0664318d14a8eb0cbad8299e645d57ecef54b1cef1c223fb8ba6d6cb296a1"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/技术部署/2026-08-22 10-08-34_ca46e7d62459.md",
+      "sha256": "418c6625f916e5cf230863ffd4037b34e8125df17f7bd992194cd8ecd560021a"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/技术配置/2026-08-22 10-37-14_b1c70719feb2.md",
+      "sha256": "1276ed24960a2293bf0bc33b9e5980572ae01a69851e82ea88977e3b1aa8b90d"
+    },
+    {
+      "bytes": 541,
+      "path": "dynamic/日常/2026-08-22 09-07-14_812497ccbfb5.md",
+      "sha256": "60764a89774708a5dd7ab14e5a119331f7020128b39f29c005e29876d6d6b882"
+    },
+    {
+      "bytes": 618,
+      "path": "dynamic/日常/2026-08-22 10-08-23_9a2b4eb5e2f5.md",
+      "sha256": "4818770b137b7a35034b1d200edd3eda684731d4246429db46d8bd58f3a6acda"
+    },
+    {
+      "bytes": 989,
+      "path": "dynamic/日记/2026-08-22 21-52-02 日记 2026-08-23_247054d9e977.md",
+      "sha256": "a7d6e1826ffe34be8b0f777c9325253cdc31105db4f52cce24e82efd3d625f94"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/沟通边界/2026-08-22 09-26-02_3274e5790b5c.md",
+      "sha256": "7fee90beb08d28e1dc8cf4ab37cddc7e888543a49bc08844979ce11edace4212"
+    },
+    {
+      "bytes": 713,
+      "path": "dynamic/节日互动/2026-08-22 10-10-28_92d02405985f.md",
+      "sha256": "6ea679b352e281d12d7d4a7ded84f4eb7738aeb8fc19ce3a537b2acd59585050"
+    },
+    {
+      "bytes": 620,
+      "path": "dynamic/认知成长/2026-08-22 10-08-01_a1a5bf1fb4ee.md",
+      "sha256": "b11be407dc45e4e3011b506686984dcb4bf10857db0564d47f878258dafcea91"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/认知成长/2026-08-22 10-36-06_d032ecec946d.md",
+      "sha256": "4441b5e7230d7ba06c177f5c3995210bfad5716b8c3452e2830e6c21a7c689c8"
+    },
+    {
+      "bytes": 1173,
+      "path": "dynamic/认知成长/2026-08-22 10-38-02_402cb4229094.md",
+      "sha256": "6de7c71c261b612494d832bb9d2665f2014f82e0314fea6eb71f72bd19b97baa"
+    },
+    {
+      "bytes": 887,
+      "path": "dynamic/身份定义/2026-08-22 10-06-31_9b73f808c818.md",
+      "sha256": "0ad7203e9dca5f3f4e16e6cf5a9ef4b1241b3ee6da82349195f885b6fec8f68d"
+    },
+    {
+      "bytes": 465,
+      "path": "permanent/互动游戏/2026-08-22 09-44-23_0510e3a34179.md",
+      "sha256": "ee1506799fbedd750b7dce19e84af8c1d729a82d45994737aa8f51eddc4c3246"
+    }
+  ],
+  "generated_at": "2026-08-23T04:50:31+00:00",
+  "path_prefix": "ombre",
+  "repo": "liye061207-cmd/ombre_brain",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 299487
+}
