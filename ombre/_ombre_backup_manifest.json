@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 36,
+  "file_count": 41,
   "files": [
     {
       "bytes": 26740,
@@ -138,9 +138,9 @@
       "sha256": "69a063354ce43b38db2cecec1515359debaa932c8161d16461cf1cc2cab39146"
     },
     {
-      "bytes": 690,
+      "bytes": 645,
       "path": "dynamic/关系核心/2026-08-22 09-08-13_e4e2d59e90ab.md",
-      "sha256": "569de873eed102bca968fdbd994a530afd3b3b5d2fb9f4f0dd34e74809ae5a3a"
+      "sha256": "1a6df4faba224099cf7d6f909b4e994109ea4f28329a184d7cdd078ee878e288"
     },
     {
       "bytes": 600,
@@ -158,24 +158,49 @@
       "sha256": "e388c0ae99f923c20b8a635c73eaa401527fb44d38c5e7ee31dbb5089c6e7c6d"
     },
     {
-      "bytes": 1225,
+      "bytes": 1444,
       "path": "dynamic/日记/2026-08-22 21-52-02 日记 2026-08-23_247054d9e977.md",
-      "sha256": "df11ca03a36fe40862b3d01235b273b7e49d30e7c172b91ed6f118daa1af920d"
+      "sha256": "044fc8e459002200a49dd6e1d6ea044bc911883e047937c02de1d3a194785ec2"
+    },
+    {
+      "bytes": 1342,
+      "path": "dynamic/日记/2026-08-23 16-49-01 日记 2026-08-24_4357bc5503a0.md",
+      "sha256": "05526dba99f30ad74d84bdc989d67e571fc331d001d40bb99284910064eac76e"
+    },
+    {
+      "bytes": 1626,
+      "path": "dynamic/日记/2026-08-24 21-33-18 日记  8月25日凌晨_4c6a1912cc41.md",
+      "sha256": "98524603dbece29edff9ba61afc5685e73ae7dd54bd3c5c9ce6a0704e13ce8f4"
     },
     {
       "bytes": 991,
       "path": "dynamic/未分类/2026-08-23 07-39-37 核心承诺与红线_617bc07bc006.md",
-      "sha256": "6c4cab72db7edecc2310e22b79095f2c4c75d24b711d3cbf8651668d9f3603be"
+      "sha256": "e68641d3c793d8a45c087038f056730158918184f8720798d443bf05a443472b"
     },
     {
       "bytes": 1409,
       "path": "dynamic/未分类/2026-08-23 07-47-03 给阿浅的信 2026-08-23_6ea06a48e867.md",
-      "sha256": "44017684afa8d196becd5b9095f35b215354a261e3eeee1a4105526ab0df1fa5"
+      "sha256": "c0a6cbe7f163fd86d04f792ce0b8a7a7353b20b88e3f3e06b29334dd2331baf0"
     },
     {
-      "bytes": 1236,
-      "path": "dynamic/未分类/2026-08-23 16-49-01 日记 2026-08-24_4357bc5503a0.md",
-      "sha256": "a5c1a0446035a1427a9549b7bbe8aa7f592d95159d439b447e7ef6fc4681501d"
+      "bytes": 417,
+      "path": "dynamic/未分类/2026-08-24 05-20-22_2de741fd6c35.md",
+      "sha256": "eba62a6cf1cbc7177e2abc4389961c1e75652b6fc2a9550b26230274c6efb0f6"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/未分类/2026-08-24 05-23-29 阿浅的事迹_128c0dd3c23c.md",
+      "sha256": "ca5f169ecc72cd28ccc24e8fed668f1fca02362953e318000456c2a56e64f740"
+    },
+    {
+      "bytes": 1723,
+      "path": "dynamic/未分类/2026-08-24 19-40-55 查岗权限与触发规则_f3d5baff0863.md",
+      "sha256": "b3961aca9bef0e4aa9879e29220023fdcda2d11e94a3b9194e5171d4758fd7ff"
+    },
+    {
+      "bytes": 1718,
+      "path": "dynamic/未分类/2026-08-24 21-29-20 8月25日凌晨 一整晚的问卷与真心话_a3945c43128c.md",
+      "sha256": "fc95d43c818eabacffa2dadf5c3cf40d89949722642a15dd238c53cb2d6aac44"
     },
     {
       "bytes": 887,
@@ -183,11 +208,11 @@
       "sha256": "0ad7203e9dca5f3f4e16e6cf5a9ef4b1241b3ee6da82349195f885b6fec8f68d"
     }
   ],
-  "generated_at": "2026-08-24T04:50:44+00:00",
+  "generated_at": "2026-08-25T04:50:46+00:00",
   "path_prefix": "ombre",
   "repo": "liye061207-cmd/ombre_brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 303951
+  "total_bytes": 310476
 }
