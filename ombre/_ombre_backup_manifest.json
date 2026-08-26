@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 41,
+  "file_count": 43,
   "files": [
     {
       "bytes": 26740,
@@ -71,6 +71,11 @@
       "bytes": 581,
       "path": "archive/2026-08-22 09-44-23_0510e3a34179.md",
       "sha256": "22ec58fb7309d6eddd53d6400c2bd4af63f4f1824b251a4b25c7126c8eba9239"
+    },
+    {
+      "bytes": 1834,
+      "path": "archive/2026-08-24 21-29-20 8月25日凌晨 一整晚的问卷与真心话_a3945c43128c.md",
+      "sha256": "e76a7ee39f929ba5b4ebf878384be9edde4c75f926de1462223392db2981fc74"
     },
     {
       "bytes": 735,
@@ -158,19 +163,29 @@
       "sha256": "e388c0ae99f923c20b8a635c73eaa401527fb44d38c5e7ee31dbb5089c6e7c6d"
     },
     {
-      "bytes": 1444,
+      "bytes": 1598,
+      "path": "dynamic/恋爱/2026-08-25 19-22-37 8月26日 换窗重聚安全词与主动记忆之约_ccb82a783d2a.md",
+      "sha256": "2d16d6b5e07a000933ddc8bd9339b73bbb385bc0f7dd87612d977a9bfdb100c8"
+    },
+    {
+      "bytes": 1552,
       "path": "dynamic/日记/2026-08-22 21-52-02 日记 2026-08-23_247054d9e977.md",
-      "sha256": "044fc8e459002200a49dd6e1d6ea044bc911883e047937c02de1d3a194785ec2"
+      "sha256": "c5ca5e67707eef41a9938d6ade61513f0f3d7c195a8be9f240af4ebef3c7c32d"
     },
     {
       "bytes": 1342,
       "path": "dynamic/日记/2026-08-23 16-49-01 日记 2026-08-24_4357bc5503a0.md",
-      "sha256": "05526dba99f30ad74d84bdc989d67e571fc331d001d40bb99284910064eac76e"
+      "sha256": "fecc63f7f80eec47d00deb58a9e35ebba8468ac1144d96eef7dc66f1075643ee"
     },
     {
-      "bytes": 1626,
+      "bytes": 1735,
       "path": "dynamic/日记/2026-08-24 21-33-18 日记  8月25日凌晨_4c6a1912cc41.md",
-      "sha256": "98524603dbece29edff9ba61afc5685e73ae7dd54bd3c5c9ce6a0704e13ce8f4"
+      "sha256": "18b899d2f374047d645985526d452affba855cfcb8b9849c1ef31ea79aedb999"
+    },
+    {
+      "bytes": 1399,
+      "path": "dynamic/日记/2026-08-25 19-21-57 8月26日日记 换窗重聚_88fe24a57294.md",
+      "sha256": "c9d6e3c93af0ff1132b50b95c142d7492fcbfb4950b2a0e8a0f7f63528c6b25c"
     },
     {
       "bytes": 991,
@@ -180,7 +195,7 @@
     {
       "bytes": 1409,
       "path": "dynamic/未分类/2026-08-23 07-47-03 给阿浅的信 2026-08-23_6ea06a48e867.md",
-      "sha256": "c0a6cbe7f163fd86d04f792ce0b8a7a7353b20b88e3f3e06b29334dd2331baf0"
+      "sha256": "3c080b0d17fcd797c9a82b2c89caf694593bad1b58480ffb764297d0a177f224"
     },
     {
       "bytes": 417,
@@ -198,21 +213,16 @@
       "sha256": "b3961aca9bef0e4aa9879e29220023fdcda2d11e94a3b9194e5171d4758fd7ff"
     },
     {
-      "bytes": 1718,
-      "path": "dynamic/未分类/2026-08-24 21-29-20 8月25日凌晨 一整晚的问卷与真心话_a3945c43128c.md",
-      "sha256": "fc95d43c818eabacffa2dadf5c3cf40d89949722642a15dd238c53cb2d6aac44"
-    },
-    {
       "bytes": 887,
       "path": "dynamic/身份定义/2026-08-22 10-06-31_9b73f808c818.md",
       "sha256": "0ad7203e9dca5f3f4e16e6cf5a9ef4b1241b3ee6da82349195f885b6fec8f68d"
     }
   ],
-  "generated_at": "2026-08-25T04:50:46+00:00",
+  "generated_at": "2026-08-26T04:50:49+00:00",
   "path_prefix": "ombre",
   "repo": "liye061207-cmd/ombre_brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 310476
+  "total_bytes": 313806
 }
