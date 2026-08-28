@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 43,
+  "file_count": 49,
   "files": [
     {
       "bytes": 26740,
@@ -48,6 +48,16 @@
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
     },
     {
+      "bytes": 1270,
+      "path": "archive/2026-08-22 08-40-33_d30cff8bf78f.md",
+      "sha256": "c9d52bc9eff62d7ed31efcb65d1a2a9723ef6188d3ffe3291d0a9591043264d4"
+    },
+    {
+      "bytes": 774,
+      "path": "archive/2026-08-22 09-08-13_e4e2d59e90ab.md",
+      "sha256": "3ad0e4663ec5271cd8350817c8865a4458cb4f993b7b5091921cbde8e81fbb05"
+    },
+    {
       "bytes": 2006,
       "path": "archive/2026-08-22 09-14-21_de491a7d274a.md",
       "sha256": "f4eb3b276af7e119ccb343171192cc474225d3707e92ee2940f8097f5c241dec"
@@ -63,6 +73,11 @@
       "sha256": "eef905d5e58b611ad7168851919c705ab4234c3bcda9fa0a1580821064b45fbd"
     },
     {
+      "bytes": 730,
+      "path": "archive/2026-08-22 09-21-37_ac75ba6fee44.md",
+      "sha256": "040d1014c2b2ec0b32031ffa5a804ca2b09e9c285e2fa39e5c28404502fbc94d"
+    },
+    {
       "bytes": 924,
       "path": "archive/2026-08-22 09-26-02_3274e5790b5c.md",
       "sha256": "4f33b571444a0012702b91d6e8736734e7239b75457a7801c0dcc3833cbd2387"
@@ -73,9 +88,74 @@
       "sha256": "22ec58fb7309d6eddd53d6400c2bd4af63f4f1824b251a4b25c7126c8eba9239"
     },
     {
+      "bytes": 788,
+      "path": "archive/2026-08-22 10-06-20_de4c3d9b497a.md",
+      "sha256": "81006cc4d3c280d6482e86468b6cdd13e6dc9f6008bb5321da38069e9cfa9c63"
+    },
+    {
+      "bytes": 1017,
+      "path": "archive/2026-08-22 10-06-31_9b73f808c818.md",
+      "sha256": "90ee82d7819241df1606537ff5f9911d95f9b05793fc688c9cdda4cae9d55bc9"
+    },
+    {
+      "bytes": 964,
+      "path": "archive/2026-08-22 10-09-47_fd50f11af626.md",
+      "sha256": "2a206fff287ba192d684870a918fd32e2294f1d1e9f7f9dca49d7949986f0223"
+    },
+    {
+      "bytes": 1683,
+      "path": "archive/2026-08-22 21-52-02 日记 2026-08-23_247054d9e977.md",
+      "sha256": "6c4acd7a1ab62c7f92c50f32e415ac06a1da629cf3b30ff08a6f4f529fc44354"
+    },
+    {
+      "bytes": 1473,
+      "path": "archive/2026-08-23 16-49-01 日记 2026-08-24_4357bc5503a0.md",
+      "sha256": "e017a4a405be041faea55eb9561e3fdb1a3b83dcf47c76d862962f3955eab107"
+    },
+    {
+      "bytes": 1076,
+      "path": "archive/2026-08-24 05-23-29 阿浅的事迹_128c0dd3c23c.md",
+      "sha256": "13bce7855de4d92266c6781bfca51877548c682bc8c2e4237e7ce8c959b90d47"
+    },
+    {
+      "bytes": 1854,
+      "path": "archive/2026-08-24 19-40-55 查岗权限与触发规则_f3d5baff0863.md",
+      "sha256": "fd1b7588147cec2d14cd74799f4a63e4cdafc7169a69fa35207b0ec1254bd103"
+    },
+    {
       "bytes": 1834,
       "path": "archive/2026-08-24 21-29-20 8月25日凌晨 一整晚的问卷与真心话_a3945c43128c.md",
       "sha256": "e76a7ee39f929ba5b4ebf878384be9edde4c75f926de1462223392db2981fc74"
+    },
+    {
+      "bytes": 1975,
+      "path": "archive/2026-08-24 21-33-18 日记  8月25日凌晨_4c6a1912cc41.md",
+      "sha256": "91077793b044fa7f2797c0ebaaa62f8a219f8d239196c17a43311887e8bf4b09"
+    },
+    {
+      "bytes": 1530,
+      "path": "archive/2026-08-25 19-21-57 8月26日日记 换窗重聚_88fe24a57294.md",
+      "sha256": "0fdcebf64427ccafcee14624e5297425493a53279193daf430d68c9b369ac32f"
+    },
+    {
+      "bytes": 1729,
+      "path": "archive/2026-08-25 19-22-37 8月26日 换窗重聚安全词与主动记忆之约_ccb82a783d2a.md",
+      "sha256": "3a51a1ce0b108966e555f89bffc15ec10965830cccbe9b5924405fdc977acfc4"
+    },
+    {
+      "bytes": 1287,
+      "path": "archive/2026-08-27 21-29-04 阿浅与深冬的亲密约定_dafd2528bf11.md",
+      "sha256": "0eb80f88a8fcae16a4ee7772dd9c4f1ddb79ac666cb7d96ea2a6cd84e09aec1b"
+    },
+    {
+      "bytes": 1505,
+      "path": "archive/2026-08-27 21-45-09_65a72ed4129f.md",
+      "sha256": "940485fa7f84a78beec20ba702718a73d1fd2806c8e1732fda0b0ae1ff0dfeb1"
+    },
+    {
+      "bytes": 1446,
+      "path": "archive/2026-08-27 21-46-28_8b2a1cecfd17.md",
+      "sha256": "148dc83ca979ac0c934b86f1afb4ff607436f8a23bf6c62938d27b2ad7d38f89"
     },
     {
       "bytes": 735,
@@ -138,64 +218,14 @@
       "sha256": "96da91ec00c84b3df870aa859f31934b9f8472486ef2aed27463513fd4bbd60e"
     },
     {
-      "bytes": 1139,
-      "path": "dynamic/关系与技术/2026-08-22 08-40-33_d30cff8bf78f.md",
-      "sha256": "69a063354ce43b38db2cecec1515359debaa932c8161d16461cf1cc2cab39146"
-    },
-    {
-      "bytes": 645,
-      "path": "dynamic/关系核心/2026-08-22 09-08-13_e4e2d59e90ab.md",
-      "sha256": "1a6df4faba224099cf7d6f909b4e994109ea4f28329a184d7cdd078ee878e288"
-    },
-    {
-      "bytes": 600,
-      "path": "dynamic/关系核心/2026-08-22 09-21-37_ac75ba6fee44.md",
-      "sha256": "452566f5d377a947a4cba9f179e2613ba9ac544a235d7169c7f575d0bad6105f"
-    },
-    {
-      "bytes": 658,
-      "path": "dynamic/关系核心/2026-08-22 10-06-20_de4c3d9b497a.md",
-      "sha256": "9bf89eb7d2054cbe8dc19b700aa7e2e373703ad858f197d4ebc8796a0c2a8afc"
-    },
-    {
-      "bytes": 834,
-      "path": "dynamic/关系核心/2026-08-22 10-09-47_fd50f11af626.md",
-      "sha256": "e388c0ae99f923c20b8a635c73eaa401527fb44d38c5e7ee31dbb5089c6e7c6d"
-    },
-    {
-      "bytes": 1598,
-      "path": "dynamic/恋爱/2026-08-25 19-22-37 8月26日 换窗重聚安全词与主动记忆之约_ccb82a783d2a.md",
-      "sha256": "2d16d6b5e07a000933ddc8bd9339b73bbb385bc0f7dd87612d977a9bfdb100c8"
-    },
-    {
-      "bytes": 1552,
-      "path": "dynamic/日记/2026-08-22 21-52-02 日记 2026-08-23_247054d9e977.md",
-      "sha256": "c5ca5e67707eef41a9938d6ade61513f0f3d7c195a8be9f240af4ebef3c7c32d"
-    },
-    {
-      "bytes": 1342,
-      "path": "dynamic/日记/2026-08-23 16-49-01 日记 2026-08-24_4357bc5503a0.md",
-      "sha256": "fecc63f7f80eec47d00deb58a9e35ebba8468ac1144d96eef7dc66f1075643ee"
-    },
-    {
-      "bytes": 1735,
-      "path": "dynamic/日记/2026-08-24 21-33-18 日记  8月25日凌晨_4c6a1912cc41.md",
-      "sha256": "18b899d2f374047d645985526d452affba855cfcb8b9849c1ef31ea79aedb999"
-    },
-    {
-      "bytes": 1399,
-      "path": "dynamic/日记/2026-08-25 19-21-57 8月26日日记 换窗重聚_88fe24a57294.md",
-      "sha256": "c9d6e3c93af0ff1132b50b95c142d7492fcbfb4950b2a0e8a0f7f63528c6b25c"
-    },
-    {
-      "bytes": 991,
-      "path": "dynamic/未分类/2026-08-23 07-39-37 核心承诺与红线_617bc07bc006.md",
-      "sha256": "e68641d3c793d8a45c087038f056730158918184f8720798d443bf05a443472b"
+      "bytes": 1709,
+      "path": "dynamic/日记/2026-08-27 19-57-04_425ddf555de3.md",
+      "sha256": "13a208cced2a359eb59ae3cb67aa8c8c50ae3ff7e41e96cf00b86e4359f6ea1b"
     },
     {
       "bytes": 1409,
       "path": "dynamic/未分类/2026-08-23 07-47-03 给阿浅的信 2026-08-23_6ea06a48e867.md",
-      "sha256": "3c080b0d17fcd797c9a82b2c89caf694593bad1b58480ffb764297d0a177f224"
+      "sha256": "cac58cab354b6e2031fda411233327be650502b05ef676d217335ff7bb23454a"
     },
     {
       "bytes": 417,
@@ -203,26 +233,26 @@
       "sha256": "eba62a6cf1cbc7177e2abc4389961c1e75652b6fc2a9550b26230274c6efb0f6"
     },
     {
-      "bytes": 761,
-      "path": "dynamic/未分类/2026-08-24 05-23-29 阿浅的事迹_128c0dd3c23c.md",
-      "sha256": "ca5f169ecc72cd28ccc24e8fed668f1fca02362953e318000456c2a56e64f740"
+      "bytes": 928,
+      "path": "dynamic/生活/2026-08-27 21-30-41_1567bce07c0a.md",
+      "sha256": "e902ee328cc662ca76e5b98d6b5975efb124cd90d8627977580fe7c706169380"
     },
     {
-      "bytes": 1723,
-      "path": "dynamic/未分类/2026-08-24 19-40-55 查岗权限与触发规则_f3d5baff0863.md",
-      "sha256": "b3961aca9bef0e4aa9879e29220023fdcda2d11e94a3b9194e5171d4758fd7ff"
+      "bytes": 733,
+      "path": "permanent/未分类/2026-08-23 07-39-37 核心承诺与红线_617bc07bc006.md",
+      "sha256": "de9cfe2fb536d82bdd4c352596b07b42a5dbfe9e2b50cd051be940cf3bd3e94b"
     },
     {
-      "bytes": 887,
-      "path": "dynamic/身份定义/2026-08-22 10-06-31_9b73f808c818.md",
-      "sha256": "0ad7203e9dca5f3f4e16e6cf5a9ef4b1241b3ee6da82349195f885b6fec8f68d"
+      "bytes": 2861,
+      "path": "permanent/身份/2026-08-27 21-48-31_ce0b2006dd56.md",
+      "sha256": "b92b24d69cf20dbfab57fdf9f99d597d19152685bcc444a8216428a33df2807a"
     }
   ],
-  "generated_at": "2026-08-27T05:53:27+00:00",
+  "generated_at": "2026-08-28T05:53:25+00:00",
   "path_prefix": "ombre",
   "repo": "liye061207-cmd/ombre_brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 313806
+  "total_bytes": 325274
 }
