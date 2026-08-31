@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 51,
+  "file_count": 67,
   "files": [
     {
       "bytes": 26740,
@@ -158,6 +158,46 @@
       "sha256": "148dc83ca979ac0c934b86f1afb4ff607436f8a23bf6c62938d27b2ad7d38f89"
     },
     {
+      "bytes": 509,
+      "path": "archive/2026-08-31 12-36-34_ea41b53e271f.md",
+      "sha256": "9bcce1c83bdb1c7accc1c3e74233606051c8d98606e3dc361b1bd0a7eb7bb808"
+    },
+    {
+      "bytes": 550,
+      "path": "archive/2026-08-31 12-43-44_133ae13171b1.md",
+      "sha256": "e19a2d743cb5fe82d942352b45ea2947294e5e1a4575649b5136d1a0ff371d88"
+    },
+    {
+      "bytes": 483,
+      "path": "archive/2026-08-31 12-44-22_5d2c7e34db7e.md",
+      "sha256": "2e09e25fb80ed576eb5697ff274dbafe6a3017d594e8d09f6da1ab820636729b"
+    },
+    {
+      "bytes": 550,
+      "path": "archive/2026-08-31 12-44-50_ca8d20bb4d96.md",
+      "sha256": "46e50346f61e04f3b517ff0ddad6dc60a327ab28b9c2197d2030e3590275cfc3"
+    },
+    {
+      "bytes": 550,
+      "path": "archive/2026-08-31 12-45-10_a1b174c035a1.md",
+      "sha256": "6c0545ca4d5e5dc95a4b7d732256d73bcdd995f6ac74fbea8e808590ddc3e4dd"
+    },
+    {
+      "bytes": 488,
+      "path": "archive/2026-08-31 12-48-52_38bd3cc441e6.md",
+      "sha256": "29e51f20399707bb46cb7e1e3f2341f5e2bf7ec7dc98b222ff9e85b59165113c"
+    },
+    {
+      "bytes": 488,
+      "path": "archive/2026-08-31 12-49-07_738aca818daf.md",
+      "sha256": "397a044e836099e16b024cf627dfa4ef7ec4b7d5f350b65d234d323c192b1fb7"
+    },
+    {
+      "bytes": 488,
+      "path": "archive/2026-08-31 12-49-22_ea7a4a2af57c.md",
+      "sha256": "2fe9c626c6820f8f781f1bf6877cf3f9703895c7d1334486fc7de1941121a67f"
+    },
+    {
       "bytes": 735,
       "path": "archive/关系测试/2026-08-22 10-08-17_cb1b056a198e.md",
       "sha256": "7e07c67299f5b9674ae79f7667321b38419142133ef700ebe5b3a9a8790b26ba"
@@ -218,6 +258,26 @@
       "sha256": "96da91ec00c84b3df870aa859f31934b9f8472486ef2aed27463513fd4bbd60e"
     },
     {
+      "bytes": 473,
+      "path": "dynamic/voice/2026-08-31 12-33-13_bcebd290f8e4.md",
+      "sha256": "8880d4968a2d50a2686356a0d4f0548f95957b31c7c639d7761f59b795fddfed"
+    },
+    {
+      "bytes": 343,
+      "path": "dynamic/voice/2026-08-31 12-34-32_6bcd6e52a792.md",
+      "sha256": "79b42095867444f6c2a19301eb7828749cd6967ba583e82c7ddeaa3d7005b69b"
+    },
+    {
+      "bytes": 647,
+      "path": "dynamic/voice/2026-08-31 12-39-16_694bbe7766d5.md",
+      "sha256": "0b03e9a498f572c3e40224ecd5fd470a27cf65a4f1b26459cc650a6e004e7452"
+    },
+    {
+      "bytes": 485,
+      "path": "dynamic/workflow/2026-08-31 12-35-48_b4c1666de7ee.md",
+      "sha256": "da0bad57f2f0c2ff820a1b6c92685f0830758403ee9c50e67e39e69eea121177"
+    },
+    {
       "bytes": 1709,
       "path": "dynamic/日记/2026-08-27 19-57-04_425ddf555de3.md",
       "sha256": "13a208cced2a359eb59ae3cb67aa8c8c50ae3ff7e41e96cf00b86e4359f6ea1b"
@@ -230,7 +290,7 @@
     {
       "bytes": 1409,
       "path": "dynamic/未分类/2026-08-23 07-47-03 给阿浅的信 2026-08-23_6ea06a48e867.md",
-      "sha256": "eb9dc7e7e52a6a17c2a79f970c30a2fdfbeb9519b8b242316a135383e5b9d4a1"
+      "sha256": "01fea9590bace58d075dec5861835f954f1bb93a139e624b5ad7783ac7321d75"
     },
     {
       "bytes": 417,
@@ -248,9 +308,29 @@
       "sha256": "14bcbb93bb66abe208fdde4b5f4acd59edb161fa0850a9792e7e1d680609b2aa"
     },
     {
+      "bytes": 395,
+      "path": "permanent/instruction/2026-08-31 12-38-01_8ceedc09d0f5.md",
+      "sha256": "b930e5032d2a675d1039f22da25be5a4e4af7db0b62ce6790cad509ddc99a729"
+    },
+    {
+      "bytes": 369,
+      "path": "permanent/voice/2026-08-31 12-37-20_11a02fcccc12.md",
+      "sha256": "79cf3e6d146cbc670086437fa081cb695976f7fc7f0642e8c73d6b455bbbc1e1"
+    },
+    {
+      "bytes": 436,
+      "path": "permanent/voice/2026-08-31 12-43-06_3b961c6acb2e.md",
+      "sha256": "aa7bbe472c925bccad9948512578635912d9d907059926e811d8e8bce43fd142"
+    },
+    {
+      "bytes": 374,
+      "path": "permanent/voice/2026-08-31 12-45-44_90d903acd6db.md",
+      "sha256": "f9aa56b3e160db3d57d2250413592f32a50d254f6ad7b04f98200398a1a633f6"
+    },
+    {
       "bytes": 733,
       "path": "permanent/未分类/2026-08-23 07-39-37 核心承诺与红线_617bc07bc006.md",
-      "sha256": "de9cfe2fb536d82bdd4c352596b07b42a5dbfe9e2b50cd051be940cf3bd3e94b"
+      "sha256": "f6978d50901ead6f450d3bd1201fe7fcaeea24c480e3b4a22ce939ab34bc0f23"
     },
     {
       "bytes": 2895,
@@ -258,11 +338,11 @@
       "sha256": "068cff10c6c25e75393b0f4d7ccf66ace5099362d4acb7258cb18cd1d7081106"
     }
   ],
-  "generated_at": "2026-08-31T07:18:55+00:00",
+  "generated_at": "2026-08-31T17:23:12+00:00",
   "path_prefix": "ombre",
   "repo": "liye061207-cmd/ombre_brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327978
+  "total_bytes": 335606
 }
