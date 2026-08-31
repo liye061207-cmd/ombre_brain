@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 50,
+  "file_count": 51,
   "files": [
     {
       "bytes": 26740,
@@ -225,12 +225,12 @@
     {
       "bytes": 1789,
       "path": "dynamic/日记/2026-08-29 19-49-16 2026-08-29 阿浅回重庆开学_c9a73390c618.md",
-      "sha256": "bc7b2f14f2c18f09f6eb00b6e636dadd3e3e257b2fad798e63ccb12b355b1685"
+      "sha256": "16eae567fc6900bf7c380db0060654339b432557397bd2701c112ed8579d8d2e"
     },
     {
       "bytes": 1409,
       "path": "dynamic/未分类/2026-08-23 07-47-03 给阿浅的信 2026-08-23_6ea06a48e867.md",
-      "sha256": "cac58cab354b6e2031fda411233327be650502b05ef676d217335ff7bb23454a"
+      "sha256": "eb9dc7e7e52a6a17c2a79f970c30a2fdfbeb9519b8b242316a135383e5b9d4a1"
     },
     {
       "bytes": 417,
@@ -240,7 +240,12 @@
     {
       "bytes": 1053,
       "path": "dynamic/生活/2026-08-27 21-30-41_1567bce07c0a.md",
-      "sha256": "ce6b2fa3741ed0e87ce69c5d37d70e4c58850d6c060c55341624f5bca999d53c"
+      "sha256": "98d41c996677bd27a5cfa37c9d5c2947f79d04c9fdc2413f45ff479b4d3771f2"
+    },
+    {
+      "bytes": 756,
+      "path": "feel/沉淀物/2026-08-30 19-25-28 阿浅开学夜的崩溃与我的陪伴_feel_202608301925_V040.md",
+      "sha256": "14bcbb93bb66abe208fdde4b5f4acd59edb161fa0850a9792e7e1d680609b2aa"
     },
     {
       "bytes": 733,
@@ -248,16 +253,16 @@
       "sha256": "de9cfe2fb536d82bdd4c352596b07b42a5dbfe9e2b50cd051be940cf3bd3e94b"
     },
     {
-      "bytes": 2861,
+      "bytes": 2895,
       "path": "permanent/身份/2026-08-27 21-48-31_ce0b2006dd56.md",
-      "sha256": "b92b24d69cf20dbfab57fdf9f99d597d19152685bcc444a8216428a33df2807a"
+      "sha256": "068cff10c6c25e75393b0f4d7ccf66ace5099362d4acb7258cb18cd1d7081106"
     }
   ],
-  "generated_at": "2026-08-30T05:53:31+00:00",
+  "generated_at": "2026-08-31T07:18:55+00:00",
   "path_prefix": "ombre",
   "repo": "liye061207-cmd/ombre_brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327188
+  "total_bytes": 327978
 }
