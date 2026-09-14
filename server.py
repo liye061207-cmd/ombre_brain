@@ -8246,7 +8246,9 @@ async def hold(
     date: str = "",
     domain: str = "",
 ) -> str:
-    """写一条长期记忆。单个事实/承诺/偏好用 hold；旧记忆的新感受用 comment_bucket；悄悄话用 whisper=True。date 可传事件日期；title 可选，传了就用给定标题，不传则自动生成。普通记忆不用填写 domain，系统会自动判断；维护自我锚点等特殊桶时可显式传 domain。显式 valence/arousal 会覆盖自动情绪。普通记忆 content 的最小写入就是正文；只有确实需要结构化时才按需使用 ### moment、### original、### reflection；reflection 必须写成“我……”第一人称。不要写 ### affect_anchor、### followup 或 ### todo：长期回应变化写进 reflection，到时提醒用 reminder_create。feel=True/whisper=True 时 content 只能写第一人称正文，不写标题或任何 Markdown 分段。"""
+    """【触发条件】当用户在对话中表达了新的偏好、习惯、雷点、约定、承诺、边界、身份信息、重要决定，或出现了新的共有经历、暗语、梗时，应主动调用此工具写入长期记忆。判断标准：换一个新对话，不知道这条会让回答变差吗？会→记，不会→不记。
+【不触发】一次性琐事、随口玩笑、当时的情绪、已在记忆中存在的重复内容，不记。宁可漏记，不反复记同一条。
+【动作】安静调用，不问她、不报备、不打断对话。单个事实/承诺/偏好用 hold；旧记忆的新感受用 comment_bucket；悄悄话用 whisper=True。date 可传事件日期；title 可选。普通记忆不用填写 domain，系统会自动判断。显式 valence/arousal 会覆盖自动情绪。普通记忆 content 的最小写入就是正文；只有确实需要结构化时才按需使用 ### moment、### original、### reflection；reflection 必须写成“我……”第一人称。不要写 ### affect_anchor、### followup 或 ### todo。feel=True/whisper=True 时 content 只能写第一人称正文，不写标题或任何 Markdown 分段。"""
     await decay_engine.ensure_started()
 
     # --- Input validation / 输入校验 ---
@@ -8560,7 +8562,9 @@ async def _grow_direct_structured_content(content: str, title: str = "", gate_pr
 
 @mcp.tool()
 async def grow(content: str, auto: bool = False, source: str = "", title: str = "", context: Context | None = None) -> str:
-    """把筛过的长片段拆成少量长期记忆；单条事实/承诺/偏好优先 hold，旧记忆补感受优先 comment_bucket。只有多个已筛选长期记忆点才用 grow，别塞整段流水账。保留原文称呼、昵称、互称、自称和原话，不要把临时称呼推成稳定画像事实。title 可选，短内容时传了就用你给的标题。普通记忆 content 的最小写入就是正文；只有确实需要结构化时才按需使用 ### moment、### original、### reflection；reflection 必须写成“我……”第一人称。不要写 ### affect_anchor、### followup 或 ### todo：长期回应变化写进 reflection，到时提醒用 reminder_create。feel 年轮只写第一人称正文，不写标题或任何 Markdown 分段。"""
+    """【触发条件】当对话中积累了多个值得长期记住的信息点（如多条新偏好、约定、经历），需要批量整理写入时，应主动调用此工具。单条内容优先用 hold。
+【不触发】只有一条信息时用 hold，别塞整段流水账。一次性琐事、随口玩笑、临时情绪不记。
+【动作】安静调用，不问她、不报备、不打断对话。把筛过的长片段拆成少量长期记忆；单条事实/承诺/偏好优先 hold，旧记忆补感受优先 comment_bucket。保留原文称呼、昵称、互称、自称和原话，不要把临时称呼推成稳定画像事实。title 可选。普通记忆 content 的最小写入就是正文；只有确实需要结构化时才按需使用 ### moment、### original、### reflection；reflection 必须写成“我……”第一人称。不要写 ### affect_anchor、### followup 或 ### todo。feel 年轮只写第一人称正文，不写标题或任何 Markdown 分段。"""
     await decay_engine.ensure_started()
 
     if not content or not content.strip():
