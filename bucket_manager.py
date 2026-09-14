@@ -1432,6 +1432,28 @@ class BucketManager:
                     name_part = fname[:-3]  # remove .md
                     if name_part == bucket_id or name_part.endswith(f"_{bucket_id}"):
                         return os.path.join(root, fname)
+        # Fallback: search by YAML frontmatter id field
+        # 兜底：通过 YAML frontmatter 中的 id 字段匹配
+        for dir_path in [self.permanent_dir, self.dynamic_dir, self.archive_dir, self.feel_dir]:
+            if not os.path.exists(dir_path):
+                continue
+            for root, _, files in os.walk(dir_path):
+                for fname in files:
+                    if not fname.endswith(".md"):
+                        continue
+                    file_path = os.path.join(root, fname)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as _f:
+                            _raw = _f.read(4096)
+                        if _raw.startswith('---'):
+                            _parts = _raw.split('---', 2)
+                            if len(_parts) >= 2:
+                                import yaml as _yaml
+                                _meta = _yaml.safe_load(_parts[1]) or {}
+                                if _meta.get('id') == bucket_id:
+                                    return file_path
+                    except Exception:
+                        continue
         return None
 
     # ---------------------------------------------------------

@@ -9596,7 +9596,11 @@ async def api_buckets(request):
     if err:
         return err
     try:
-        all_buckets = await bucket_mgr.list_all(include_archive=True)
+        import yaml as _yaml
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.yaml')) as _f:
+            _config = _yaml.safe_load(_f)
+        fresh_mgr = BucketManager(_config)
+        all_buckets = await fresh_mgr.list_all(include_archive=True)
         result = []
         for b in all_buckets:
             meta = b.get("metadata", {})
